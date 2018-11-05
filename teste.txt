@@ -3,4 +3,8 @@ sdgsdafg
 asdgsadg
 asdfcgsdzafg
 teste de edicao direto do git
+<<<<<<< HEAD
 t1111111111111111111111111111111
+=======
+teste de branch
+>>>>>>> e576e19364c0b1263f68889afd43820e205cca03
