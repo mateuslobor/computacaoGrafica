@@ -2,3 +2,4 @@ sadgsdgs
 sdgsdafg
 asdgsadg
 asdfcgsdzafg
+teste de edicao direto do git
